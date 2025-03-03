@@ -1,0 +1,13 @@
+{
+  "port": 8080,
+  "apiUrl": "http://localhost:8080",
+  "authKey": "defaultKey",
+  "logLevel": "debug",
+  "db": {
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "myapp"
+  },
+  "jwtSecret": "defaultsecret"
+}
